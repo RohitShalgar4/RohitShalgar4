@@ -10,7 +10,7 @@
 
 # 🛠️ Technologies:
 <div style="display: flex; gap: 25px;">
-  <img src=["https://w7.pngwing.com/pngs/67/315/png-transparent-flutter-hd-logo-thumbnail.png"] alt="Flutter" width="40" height="40"/>
+  <img src="https://w7.pngwing.com/pngs/67/315/png-transparent-flutter-hd-logo-thumbnail.png" alt="Flutter" width="40" height="40"/>
   <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
@@ -18,7 +18,7 @@
 
 # 🌐 Connect with me:
 <div style="display: flex; gap: 25px;">
-  <a href="mailto:rohitshalgar04@example.com">
+  <a href="mailto:rohitshalgar04@gmail.com">
     <img src="https://img.icons8.com/?size=256&id=qyRpAggnV0zH&format=png" alt="Mail" width="40" height="40"/>
   </a>
   <a href=["https://www.linkedin.com/in/rohit-shalgar/"]>
