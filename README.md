@@ -21,16 +21,16 @@
   <a href="mailto:rohitshalgar04@gmail.com">
     <img src="https://img.icons8.com/?size=256&id=qyRpAggnV0zH&format=png" alt="Mail" width="40" height="40"/>
   </a>
-  <a href=["https://www.linkedin.com/in/rohit-shalgar/"]>
+  <a href="https://www.linkedin.com/in/rohit-shalgar/">
     <img src="https://img.icons8.com/?size=256&id=MR3dZdlA53te&format=png" alt="LinkedIn" width="40" height="40" />
   </a>
   <a href="https://api.whatsapp.com/send/?phone=919527418522">
     <img src="https://img.icons8.com/?size=256&id=DUEq8l5qTqBE&format=png" alt="WhatsApp" width="40" height="40" />
   </a>
-  <a href=["https://leetcode.com/u/Rohit_Shalgar/"]>
+  <a href="https://leetcode.com/u/Rohit_Shalgar/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="40" />
   </a>
-  <a href=["https://www.geeksforgeeks.org/user/rohitshayzzm/"]>
+  <a href="https://www.geeksforgeeks.org/user/rohitshayzzm/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="40" />
   </a>
 </div>
